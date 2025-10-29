@@ -1,4 +1,4 @@
-#rotating array by k positions
+#rotating array by k positions(rotated right)
 a = [ 13,4,5,56,65,23]
 k=2
 n=len(a)
